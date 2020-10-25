@@ -10,9 +10,9 @@ assignees: '@csauvage'
 **Environment**
 
 _I'm running on_ : <br/>
-[] macOS (verion: ) <br/>
-[] windows (verion: ) <br/>
-[] other - please specify <br/>
+- [ ] macOS (verion: ) <br/>
+- [ ] windows (verion: ) <br/>
+- [ ] other - please specify <br/>
 
 _Node environment_  <br/>
 Node : <br/>
@@ -42,7 +42,8 @@ If applicable, add screenshots to help explain your problem. (Don't forget to ob
 Add any other context about the problem here.
 
 
-Bug report checklist
+**Bug report checklist**
 
-[] I have filled out as much of the above information as I can
-[] I have searched for existing issues and to the best of my knowledge this is not a duplicate
+- [ ] I have read the troubleshooting guide on Streamline Documentation
+- [ ] I have filled out as much of the above information as I can
+- [ ] I have searched for existing issues and to the best of my knowledge this is not a duplicate
